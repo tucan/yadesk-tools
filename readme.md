@@ -1,1 +1,1 @@
-# Yandex.Money Shop Tools
+# Yandex.CashDesk Tools
